@@ -75,7 +75,7 @@ h4{
    color:  rgb(255, 255, 255);
 
 }
-.header{background-color: #0d2a2f;
+.header{background-color: #27a1b6df;
     margin-bottom: 10px;   
 }
 
@@ -91,18 +91,19 @@ h4{
    }
    .wel{
     text-align: center;
-    background-color: rgba(38, 28, 28, 0.828);
+    background-color: rgba(44, 142, 103, 0.619);
     padding: 20px;
    }
    .welcome{
     color: #ffffff;
    }
    .ka{
-    color: rgb(255, 106, 0);
+    color: rgb(255, 0, 8);
    }
    .punchline{
-    color: rgb(4, 239, 248);
+    color: rgb(31, 236, 0);
     font-size: large;
+    outline: #f1f1f1;
    }
    .menu{
     color: #fffcfb;
