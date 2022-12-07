@@ -65,7 +65,7 @@ h4{
        background-size: cover;
        background-repeat: no-repeat;
      
-       background-image: url(produce.jpg);
+       background-image: url(ebt.jpgs);
    }
    .nav-logo {
     
@@ -554,7 +554,7 @@ padding: 0 20px;}
     background-color: rgba(107, 103, 103, 0.524);
 }
 #home{
-    background-image: url(mar.jpg);
+    background-image: url(home.jpg);
     background-attachment:fixed;
     background-position: center;
     background-size: cover;
@@ -815,7 +815,7 @@ margin: 0px 0px 0px 100px;
     background-color: rgba(107, 103, 103, 0.749);
 }
 #home{
-    background-image: url(mar.jpg);
+    background-image: url(home.jpg);
     background-attachment:fixed;
     background-position: center;
     background-size: cover;
