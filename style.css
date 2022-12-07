@@ -13,7 +13,7 @@ font-size: 12px;
 text-align: center;
 }
 .contact-title{
-    background-color: #131d2aba;
+    background-color: #d3801bba;
     padding: 10px;
     font-size: 10px;
     margin: 10px;
@@ -33,7 +33,7 @@ text-align: center;
 }
 h4{
     color: #fffffff2;
-    background-color: #22405bbb;
+    background-color: #27a1b6df;
     margin: 2px;
     
     padding: 15px;
@@ -130,7 +130,8 @@ h4{
         border: #1c16167e;
     border-style: solid;
         text-align: center; 
-        background-color: #c55454d2;
+        background-color: #d3801bba;
+        ;
         
     }
 #thankyou{
